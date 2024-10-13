@@ -13,7 +13,7 @@
 
 .gallery-item {
     width: 30%;
-    margin: 10px;
+    margin: 20px;
     transition: transform 0.3s;
 
 }
@@ -46,7 +46,6 @@ border-radius: 8px;
 .card {
     background-color: #ffffff;
     border-radius: 10px;
-    
     box-shadow: 0 1px 10px #91be55;
     margin: 20px;
     padding: 20px;
